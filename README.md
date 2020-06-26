@@ -1,0 +1,1 @@
+This is a skeleton project with some initial config files setup, since I've repeated setting them up too often
